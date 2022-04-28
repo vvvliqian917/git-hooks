@@ -1,0 +1,11 @@
+{
+  "name": "git-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vvvliqian917/git-hooks.git",
+  "author": "vvvliqian917 <vvvliqian@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^1.3.1"
+  }
+}

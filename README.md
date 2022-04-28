@@ -1,1 +1,1 @@
-# pre-commit-hooks
+# git-hooks
